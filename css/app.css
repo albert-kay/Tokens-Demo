@@ -68,7 +68,9 @@ font-weight: 500;
 padding: var(--sd-theme-1-sp2);
 color: var(--sd-theme-1-selection);
 font-size: var( --sd-theme-1-root-size);
- 
-
+transition: all 300ms ease-in-out;
+}
+a.btn:hover{
+  background: var(--sd-theme-1-theme-600);
 }
 /*# sourceMappingURL=app.css.map */
