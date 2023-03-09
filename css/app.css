@@ -1,14 +1,18 @@
 @import url(_variables.css);
 
 body {
-
+  background: var(--sd-theme-1-theme-black);
   margin: 0;
   padding: 0;
   font-size: var(--sd-theme-1-root-size);
 }
 
 .display-container{
+  border-radius: var(--sd-theme-1-main-radius);
+  overflow: hidden;
   width: 420px;
+  height: 844px;
+  background-color: var(--sd-theme-1-theme-500);
   margin: 0 auto;
   margin-top: var(--sd-theme-1-root-size);
 }

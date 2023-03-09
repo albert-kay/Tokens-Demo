@@ -1,12 +1,24 @@
 /**
  * Do not edit directly
- * Generated on Tue, 07 Mar 2023 09:53:17 GMT
+ * Generated on Thu, 09 Mar 2023 07:57:55 GMT
  */
 
 :root {
+  --sd-global-main-font-family: Poppins;
   --sd-theme-1-root-size: 16px;
   --sd-theme-1-sp1: Root-size/4;
   --sd-theme-1-sp2: Root-size/2;
   --sd-theme-1-sp3: Root-size;
   --sd-theme-1-main-100: #ffffff;
+  --sd-theme-1-base-size: 16px;
+  --sd-theme-1-root-font-size: 20;
+  --sd-theme-1-theme-500: #09041E;
+  --sd-theme-1-theme-600: #1E1E32;
+  --sd-theme-1-theme-700: #323246;
+  --sd-theme-1-selection: #F2D385;
+  --sd-theme-1-theme-red: #97153C;
+  --sd-theme-1-theme-black: #242B43;
+  --sd-theme-1-theme-green: #159758;
+  --sd-theme-1-sec-font-size: 14px;
+  --sd-theme-1-main-radius: 20px;
 }
